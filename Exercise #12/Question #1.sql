@@ -1,0 +1,1 @@
+select avg(age) from employee_data group by title having avg(age) = 30;

@@ -1,0 +1,1 @@
+select employee_id, f_name, age from employee_data where age > 30;

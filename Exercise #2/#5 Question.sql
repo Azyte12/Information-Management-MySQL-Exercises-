@@ -1,0 +1,1 @@
+select l_name, f_name from employee_data where title = "Marketing Executive";

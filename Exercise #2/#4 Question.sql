@@ -1,0 +1,1 @@
+select salary from employee_data where perks >= 16000;

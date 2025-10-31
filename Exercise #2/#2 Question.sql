@@ -1,0 +1,1 @@
+select f_name, l_name from employee_data where title = "Web Designer";

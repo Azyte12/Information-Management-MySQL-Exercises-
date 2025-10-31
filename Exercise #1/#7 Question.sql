@@ -1,0 +1,1 @@
+select Salary, Perks, Years_of_service from employee_data;
